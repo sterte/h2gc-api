@@ -120,23 +120,6 @@
 			"URL":"https://www.imdb.com/title/tt0056801"
 		},
 		{
-			"id": 8,
-			"title":"Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
-			"directorId": 1,
-			"summary": "An insane general triggers a path to nuclear holocaust...",
-			"released": false,
-			"image": "drstrangelove.jpg",
-			"rating" : "R",
-			"duration": "2h 16 min",
-			"genres": [
-				"Crime",
-				"Drama",
-				"Sci-Fi"
-			],
-			"releaseDate": "7 September 1972",
-			"URL":"https://www.imdb.com/title/tt0057012"
-		},
-		{
 			"id": 9,
 			"title":"Citizen Kane",
 			"directorId": 7,
