@@ -4,7 +4,7 @@
 			"id": 1,
 			"title":"A Clockwork Orange",
 			"directorId": 1,
-			"summary": "In te future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn't go as planned.",
+			"summary": "In te future, a sadistic gang leader is imprisoned and volunteers...",
 			"released": true,
 			"image": "clockworkorange.jpg",
 			"rating" : "VM18",
@@ -21,7 +21,7 @@
 			"id": 2,
 			"title":"Holy Motors",
 			"directorId": 2,
-			"summary": "From dawn to dusk, a few hours in the shadowy life of a mystic man named Monsieur Oscar.",
+			"summary": "From dawn to dusk, a few hours in the shadowy life of a mystic man...",
 			"released": true,
 			"image": "holymotors.jpg",
 			"rating" : "R",
@@ -38,7 +38,7 @@
 			"id": 3,
 			"title":"7th Heaven",
 			"directorId": 4,
-			"summary": "A street cleaner saves a young woman's life, and the pair slowly fall in love until war intervenes.",
+			"summary": "A street cleaner saves a young woman's life...",
 			"released": true,
 			"image": "7thheaven.jpg",
 			"rating" : "R",
@@ -55,7 +55,7 @@
 			"id": 4,
 			"title":"The Shining",
 			"directorId": 1,
-			"summary": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.",
+			"summary": "A family heads to an isolated hotel for the winter...",
 			"released": true,
 			"image": "shining.jpg",
 			"rating" : "VM18",
@@ -72,7 +72,7 @@
 			"id": 5,
 			"title":"The Godfather",
 			"directorId": 3,
-			"summary": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+			"summary": "The aging patriarch of an organized crime dynasty transfers control...",
 			"released": true,
 			"image": "godfather.jpg",
 			"rating" : "VM18",
@@ -89,7 +89,7 @@
 			"id": 6,
 			"title":"Pulp Fiction",
 			"directorId": 5,
-			"summary": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+			"summary": "The lives of two mob hitmen, a boxer, a gangster and his wife...",
 			"released": false,
 			"image": "pulpfiction.jpg",
 			"rating" : "VM18",
@@ -106,7 +106,7 @@
 			"id": 7,
 			"title":"8 1/2",
 			"directorId": 6,
-			"summary": "A harried movie director retreats into his memories and fantasies.",
+			"summary": "A harried movie director...",
 			"released": false,
 			"image": "8half.jpg",
 			"rating" : "R",
@@ -123,7 +123,7 @@
 			"id": 8,
 			"title":"Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
 			"directorId": 1,
-			"summary": "An insane general triggers a path to nuclear holocaust that a War Room full of politicians and generals frantically tries to stop.",
+			"summary": "An insane general triggers a path to nuclear holocaust...",
 			"released": false,
 			"image": "drstrangelove.jpg",
 			"rating" : "R",
@@ -140,7 +140,7 @@
 			"id": 9,
 			"title":"Citizen Kane",
 			"directorId": 7,
-			"summary": "Following the death of publishing tycoon Charles Foster Kane, reporters scramble to uncover the meaning of his final utterance; 'Rosebud'.",
+			"summary": "Following the death of publishing tycoon Charles Foster Kane...",
 			"released": false,
 			"image": "citizenkane.jpg",
 			"rating" : "R",
@@ -157,7 +157,7 @@
 			"id": 10,
 			"title":"L'Atalante",
 			"directorId": 8,
-			"summary": "Newly married couple Juliette and a ship captain Jean struggle through marriage as they travel on the L'atalante along with the captain's first mate Le père Jules and a cabin boy.",
+			"summary": "Newly married couple Juliette and a ship captain Jean...",
 			"released": false,
 			"image": "atalante.jpg",
 			"rating" : "R",
@@ -183,7 +183,7 @@
 			"birthDate": "July 26, 1928",
 			"deathPlace": "Harpenden, HertfordShire, England, UK",
 			"deathDate": "March 7, 1999",
-			"shortBio": "Stanley Kubrick was born in Manhattan, New York City, to Sadie Gertrude (Perveler) and Jacob Leonard Kubrick, a physician. His family were Jewish immigrants (from Austria, Romania, and Russia). Stanley was considered intelligent, despite poor grades at school. Hoping that a change of scenery would produce better academic performance, Kubrick's father sent him in 1940 to Pasadena, California, to stay with his uncle, Martin Perveler..",
+			"shortBio": "Stanley Kubrick was born in Manhattan, New York City, to Sadie Gertrude (Perveler) and Jacob Leonard Kubrick, a physician. His family were Jewish immigrants (from Austria, Romania, and Russia)...",
 			"fullBio": "https://www.imdb.com/name/nm0000040/bio?ref_=nm_ov_bio_sm",
 			"filmography": [
 				1,
@@ -191,11 +191,11 @@
 				8
 			],
 			"quotes": [
-				"I never learned anything at all in school and didn't read a book for pleasure until I was 19 years old."
+				"blablbla"
 			],
 			"fullQuotes": "https://www.imdb.com/name/nm0000040/bio?ref_=nm_ov_bio_sm#quotes",
 			"trivia": [
-				"I never learned anything at all in school and didn't read a book for pleasure until I was 19 years old."
+				"blablabla"
 			],
 			"fullTrivia": "https://www.imdb.com/name/nm0000040/bio?ref_=nm_ov_bio_sm#trivia",
 			"image": "kubrick.jpg"
@@ -209,17 +209,17 @@
 			"birthDate": "November 22, 1960",
 			"deathPlace": "",
 			"deathDate": "",
-			"shortBio": "Leos Carax made several short films and also wrote film criticism, then at the age of 24 years made a very strong first feature Boy Meets Girl (1984). The film played at the 1984 Cannes film festival and was a critical triumph. It paved the way for Carax's second feature Mauvais sang (1986) (Bad Blood). That film was a giant step forward in the ..",
+			"shortBio": "Leos Carax made several short films and also wrote film criticism, then at the age of 24 years made a very strong first feature Boy Meets Girl (1984)...",
 			"fullBio": "https://www.imdb.com/name/nm0136021/bio?ref_=nm_ov_bio_sm",
 			"filmography": [
 				2
 			],
 			"quotes": [
-				"The film was thought to be in three parts, three chapters. There's the one chapter in the countryside, called 'In the Light.' I knew this chapter would be light, it would be green and white, green for nature. I dyed all of the actors' hairs blonde and put them in white shirts. So I was trying to find a way to expose this young girl in a shot that would be really white and ..."
+				"blablabla"
 			],
 			"fullQuotes": "https://www.imdb.com/name/nm0136021/bio?ref_=nm_dyk_qt_sm#quotes",
 			"trivia": [
-				"His nom de plume, Leos Carax, can be read Le oscar a X (L'oscar à X), which means The oscar goes to X, a funny way to pretend to get the statue"
+				"blablabla"
 			],
 			"fullTrivia": "https://www.imdb.com/name/nm0136021/bio?ref_=nm_dyk_trv_sm#trivia",
 			"image": "carax.jpg"
@@ -233,17 +233,17 @@
 			"birthDate": "April 7, 1939",
 			"deathPlace": "",
 			"deathDate": "",
-			"shortBio": "Francis Ford Coppola was born in 1939 in Detroit, Michigan, but grew up in a New York suburb in a creative, supportive Italian-American family. His father, Carmine Coppola, was a composer and musician. His mother, Italia Coppola (née Pennino), had been an actress. Francis Ford Coppola graduated with a degree in drama from Hofstra University, and ..",
+			"shortBio": "Francis Ford Coppola was born in 1939 in Detroit, Michigan, but grew up in a New York suburb...",
 			"fullBio": "https://www.imdb.com/name/nm0000338/bio?ref_=nm_ov_bio_sm",
 			"filmography": [
 				5
 			],
 			"quotes": [
-				"I never learned anything at all in school and didn't read a book for pleasure until I was 19 years old."
+				"blablabla"
 			],
 			"fullQuotes": "https://www.imdb.com/name/nm0000040/bio?ref_=nm_ov_bio_sm#quotes",
 			"trivia": [
-				"I never learned anything at all in school and didn't read a book for pleasure until I was 19 years old."
+				"blablabla"
 			],
 			"fullTrivia": "https://www.imdb.com/name/nm0000040/bio?ref_=nm_ov_bio_sm#trivia",
 			"image": "coppola.jpg"
@@ -281,17 +281,17 @@
 			"birthDate": "March 27, 1963",
 			"deathPlace": "",
 			"deathDate": "",
-			"shortBio": "Quentin Jerome Tarantino was born in Knoxville, Tennessee. His father, Tony Tarantino, is an Italian-American actor and musician from New York, and his mother, Connie (McHugh), is a nurse from Tennessee. Quentin moved with his mother to Torrance, California, when he was four years old. In January of 1992, first-time writer-director Tarantino's ...",
+			"shortBio": "Quentin Jerome Tarantino was born in Knoxville, Tennessee. His father, Tony Tarantino, is an Italian-American actor...",
 			"fullBio": "https://www.imdb.com/name/nm0000233/bio?ref_=nm_ov_bio_sm",
 			"filmography": [
 				6
 			],
 			"quotes": [
-				"Uh thanks! Uh, this has been a very strange year. I can definitely say that. Uh, you know what? I was trying to think...I think this is the only award I'm going to win here tonight, so I was trying to think, maybe I should say a whole lot of stuff, right here right now, just get it out of my system, you know, all "
+				"blablabla"
 			],
 			"fullQuotes": "https://www.imdb.com/name/nm0000233/bio?ref_=nm_dyk_qt_sm#quotes",
 			"trivia": [
-				"He worked at Video Archives in Manhattan Beach, California from 1985-1990 with future filmmakers Roger Avary and Daniel Synder. He became well known to local residents for his extensive knowledge of world cinema and eclectic, customer tailored video recommendations. He wrote several screenplays during his time at Video Archives including Reservoir Dogs (1992) True Romance (1993) and Natural Born "
+				"blablabla"
 			],
 			"fullTrivia": "https://www.imdb.com/name/nm0000233/bio?ref_=nm_dyk_trv_sm#trivia",
 			"image": "tarantino.jpg"
@@ -305,17 +305,17 @@
 			"birthDate": " January 20, 1920",
 			"deathPlace": "Rome, Lazio, Italy",
 			"deathDate": "October 31, 1993",
-			"shortBio": "The women who both attracted and frightened him and an Italy dominated in his youth by Mussolini and Pope Pius XII - inspired the dreams that Fellini started recording in notebooks in the 1960s. Life and dreams were raw material for his films. His native Rimini and characters like Saraghina (the devil herself said the priests who ran his school) -...",
+			"shortBio": "The women who both attracted and frightened him and an Italy dominated in his youth by Mussolini and Pope Pius XII...",
 			"fullBio": "https://www.imdb.com/name/nm0000019/bio?ref_=nm_ov_bio_sm",
 			"filmography": [
 				7
 			],
 			"quotes": [
-				"Put yourself into life and never lose your openness, your childish enthusiasm throughout the journey that is life, and things will come your way."
+				"blablabla"
 			],
 			"fullQuotes": "https://www.imdb.com/name/nm0000019/bio?ref_=nm_dyk_qt_sm#quotes",
 			"trivia": [
-				"He's portrayed by Alberto Paradossi in Permette? Alberto Sordi (2020)."
+				"blablabla"
 			],
 			"fullTrivia": "https://www.imdb.com/name/nm0000019/bio?ref_=nm_dyk_trv_sm#trivia",
 			"image": "fellini.jpg"
@@ -329,17 +329,17 @@
 			"birthDate": "May 6, 1915",
 			"deathPlace": "Hollywood, Los Angeles, California, USA",
 			"deathDate": "October 10, 1985",
-			"shortBio": "His father was a well-to-do inventor, his mother a beautiful concert pianist; Orson Welles was gifted in many arts (magic, piano, painting) as a child. When his mother died (he was six) he traveled the world with his father. He was orphaned at 15 after his father's death and became the ward of Dr. Maurice Bernstein of Chicago. In 1931, he ... ",
+			"shortBio": "His father was a well-to-do inventor, his mother a beautiful concert pianist...",
 			"fullBio": "https://www.imdb.com/name/nm0000080/bio?ref_=nm_ov_bio_sm",
 			"filmography": [
 				9
 			],
 			"quotes": [
-				"Victor Mature and I had an extended sword fight, on which I worked day after day. And in no shots--full, long, medium--at any moment is Victor Mature EVER involved! Not even to hold the sword and look menacing... He said, Oh, I don't want to do any of that stuff.."
+				"blablabla"
 			],
 			"fullQuotes": "https://www.imdb.com/name/nm0000080/bio?ref_=nm_dyk_qt_sm#quotes",
 			"trivia": [
-				" Was named #16 on the 50 Greatest Screen Legends list of the American Film Institute."
+				"blablabla"
 			],
 			"fullTrivia": "https://www.imdb.com/name/nm0000080/bio?ref_=nm_dyk_trv_sm#trivia",
 			"image": "welles.jpg"
@@ -353,7 +353,7 @@
 			"birthDate": "April 26, 1905",
 			"deathPlace": "Paris, France",
 			"deathDate": "October 5, 1934",
-			"shortBio": "Jean Vigo had bad health since he was a child. Son of anarchist militant Miguel Almareyda, he also never really recovered from his father's mysterious death in jail when he was 12. Abandoned by his mother, he passed from boarding school to boarding school. Aged 23, through meetings with people involved in the movies, he started working in the ...",
+			"shortBio": "Jean Vigo had bad health since he was a child. Son of anarchist militant Miguel Almareyda...",
 			"fullBio": "https://www.imdb.com/name/nm0897118/bio?ref_=nm_ov_bio_sm",
 			"filmography": [
 				10
